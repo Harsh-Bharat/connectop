@@ -1,0 +1,9 @@
+.Applicant:hover{
+    box-shadow: black 1px 1px 1px 1px ;
+    transition: linear 0.5s;
+    font-weight: bold;
+    color: aqua;
+}
+.text-appli:hover{
+   color: black;
+}
